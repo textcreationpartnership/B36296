@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>There is newly published, the four following usefull and necessary books. The queens closet opened ... The exact dealer refined ... the third edition, enlarged. ... The young secretary's guide: or, A speedy help to learning. In two parts. ... The strange and prodigious religions, customs, and manners, of sundry nations ... the second edition.  All four printed for Henry Rhodes ...</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B36296</idno><idno type="EEBO-CITATION">226856702</idno>
+  <idno type="VID">195564</idno>
+  <idno type="EEBO-PROQUEST">2240874671</idno>
+  
+            <idno type="OCLC"> 226856702</idno>
+            <idno type="STC">Interim Tract Supplement Guide E4:2[141]</idno>
+            <idno type="STC">Interim Tract Supplement Guide E4:2[143]</idno>
+            <idno type="STC">Interim Tract Supplement Guide E4:2[144]</idno>
+            <idno type="OCLC">ocn 226856702</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B36296)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195564)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E4:2[42b, 42d-e, 43b, 44a-b])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>There is newly published, the four following usefull and necessary books. The queens closet opened ... The exact dealer refined ... the third edition, enlarged. ... The young secretary's guide: or, A speedy help to learning. In two parts. ... The strange and prodigious religions, customs, and manners, of sundry nations ... the second edition.  All four printed for Henry Rhodes ...</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>H. Rhodes,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>ca. 1695].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Three copies of this item filmed.</note>
+                  <note>Imperfect: copy at E4:2[42b-43b] cropped, with loss of text at verso, top; all copies stained and with print show-through. Reel position E4:2[44a-b] filmed twice to adjust exposure.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Queens closet opened.</term>
+               <term type="uniform_title">Exact dealer refined.</term>
+               <term type="uniform_title">Young secretary's guide.</term>
+               <term type="uniform_title">Strange and prodigious religions, customs, and manners, of sundry nations.</term>
+               <term type="topical_term">Publishers and publishing --  England --  London --  Early works to 1800.</term>
+               <term type="genre_form">Advertising fliers --  England --  London --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="publishers_advertisements">
+            <pb facs="tcp:195564:1"/>
+            <head>There is Newly Published, the Four follow<g ref="char:EOLhyphen"/>ing Usefull and Necessary Books.</head>
+            <div type="publishers_advertisement">
+               <p>
+                  <hi>THe Queens Closet Opened:</hi> Being incomparable Secrets in Physick, Chirurgery, Preserving, Candying, Cookery, Perfumes, Beautifying, and Distilling Waters, making Wines, and many other Rarities; which were presented to the QUEEN by the most experienc'd Persons of the Times, many whereof were had in great Esteem, when she was pleased to descend to Private Recreations.</p>
+               <p>Price Bound Two Shillings.</p>
+            </div>
+            <div type="publishers_advertisement">
+               <p>
+                  <hi>THe Exact Dealer Refined:</hi> Being a Usefull <hi>Companion</hi> for all <hi>Traders.</hi> In Three Parts. Containing, I. A Descrip<g ref="char:EOLhyphen"/>tion of the Commodities, Coins, Weights, and Measures of <hi>Great Britain,</hi> and its neighbouring Countries. With Useful Directions about Entring and Taking up Goods at the Cu<g ref="char:EOLhyphen"/>stom-house: Instructions about Bills of Exchange, and the keeping of Books of Accompts. The way of Recovering Debts; likewise Exact Tables of Accompts ready cast-up.</p>
+               <p n="2">II. Containing a plain Institution of Arithmetick in all its Parts; with an excellent and easie new way of Multiplying Foot-measure in Feet and Inches, by Feet and Inches, with<g ref="char:EOLhyphen"/>out Reduction, and applied to the Measuring of Carpen<g ref="char:EOLhyphen"/>ters, Joyners, Painters, Plaisterers, Glasiers, and Bricklayers Work, <hi>&amp;c.</hi> And of Solid Timber, <hi>&amp;c.</hi> Also the whole Art of Gauging, with several curious Tables. And very neces<g ref="char:EOLhyphen"/>sary Observations relating to the Measuring of Land.</p>
+               <p n="3">III. Containing the Travellers Guide through all the Princi<g ref="char:EOLhyphen"/>pal Roads in <hi>England.</hi> An Account of Carriers Inns, and Days of going out. Also the Rates of Post-Letters. With other Matters not before made publick. <hi>The Third Edition, Enlarged,</hi> By <hi>J. H.</hi> Author of <hi>The Secretary's Guide.</hi>
+               </p>
+               <p>Price Bound, One Shilling.</p>
+            </div>
+            <div type="publishers_advertisement">
+               <pb facs="tcp:195564:2"/>
+               <p>
+                  <hi>THE Young Secretary's Guide:</hi> or, <hi>A Speedy Help to Learning.</hi> In Two Parts. I. Containing the true Method of <hi>Writing Letters</hi> upon any Subject; whether concerning Busi<g ref="char:EOLhyphen"/>ness, or otherwise: Fitted to all Capacities, in the most smooth and obliging Stile; with about 200 Examples never before published. As also Instructions how properly to <hi>En<g ref="char:EOLhyphen"/>title, Subscribe,</hi> or <hi>Direct a Letter</hi> to any Person of what Quality soever. Together with full Directions for true <hi>Poin<g ref="char:EOLhyphen"/>ting,</hi> and many other notable Things.</p>
+               <p n="2">II. Containing an exact Collection of <hi>Acquittances, Bills, Bonds, Wills, Indentures, Deeds of Gift, Letters of Attorney, Assignments, Releases, Warrants of Attorney, Bills of Sale, Coun<g ref="char:EOLhyphen"/>ter Securities,</hi> with Notes of Directions, relating to what is most difficult to be understood in the most legal sence, form, and manner: To which are added the Names of <hi>Men,</hi> and <hi>Women, Cities, Counties, Sums of Money, Days, Months, Years of Date, Trade,</hi> &amp;c. in <hi>Latin,</hi> as they ought to be placed in any <hi>Latin Obligation;</hi> with an <hi>Interst Table</hi> to know the In<g ref="char:EOLhyphen"/>terest due upon any Sum of Money, <hi>&amp;c. The Sixth Edition.</hi> By <hi>J. Hill.</hi>
+               </p>
+               <p>Price Bound, One Shilling.</p>
+            </div>
+            <div type="publishers_advertisement">
+               <p>THE Strange and Prodigious Religions, Customs and Manners, of Sundry Nations. Containing. I. Their ridiculous Rites and Ceremonies in the Worship of their seve<g ref="char:EOLhyphen"/>ral Deities.</p>
+               <p n="2">II. The various Changes of the <hi>Jewish</hi> Religion, and the State it is now in; with the final Destruction of <hi>Jerusalem</hi> un<g ref="char:EOLhyphen"/>der <hi>Titus.</hi>
+               </p>
+               <p n="3">III. The Rise and Growth of <hi>Mahometanism,</hi> with the Life of that great Impostor.</p>
+               <p n="4">IV. The Schisms and Heresies in the Christian Church; being an account of those grand Hereticks the <hi>Adamites, Muggletonians, &amp;c.</hi> All intermingled with pleasant Relations of the fantastical Rites both of the Ancients and Moderns in the Celebration of their Marriages, and Solemnization of their Funerals, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Faithfully collected from ancient and modern Authors; and adorned with divers Pictures of several remarkable Passages there<g ref="char:EOLhyphen"/>in.</hi> The Second Edition. By <hi>R. D.</hi>
+               </p>
+               <p>Price Bound, One Shilling.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>All Four Printed for <hi>Henry Rhodes</hi> at the <hi>Star,</hi> the co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ner of <hi>Bride-Lane</hi> in <hi>Fleetstreet.</hi>
+            </p>
+            <pb facs="tcp:195564:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
